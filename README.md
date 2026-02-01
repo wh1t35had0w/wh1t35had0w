@@ -2,7 +2,7 @@ Hey there! 👋
 
 I’m wh1t35had0w, a Red Team practitioner in training.
 
-I study how systems fail — not from theory, but from the attacker’s side.
+I study how systems fail, not from theory, but from the attacker’s side.
 If there’s an assumption, I test it.
 If there’s trust, I try to break it.
 
